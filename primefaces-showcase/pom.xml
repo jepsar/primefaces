@@ -23,7 +23,7 @@
         <myfaces.version>2.3.10</myfaces.version>
         <myfaces-next.version>2.3-next-M6</myfaces-next.version>
         <resteasy.version>5.0.4.Final</resteasy.version>
-        <jetty.version>9.4.48.v20220622</jetty.version>
+        <jetty.version>9.4.49.v20220914</jetty.version>
         <jsf.project.stage>Production</jsf.project.stage>
     </properties>
 
@@ -117,7 +117,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
-            <version>2.0.0</version>
+            <version>2.0.3</version>
         </dependency>
 
         <!-- GraphicImage -->
@@ -176,7 +176,7 @@
         <dependency>
             <groupId>com.sun.xml.bind</groupId>
             <artifactId>jaxb-impl</artifactId>
-            <version>2.3.6</version>
+            <version>4.0.1</version>
         </dependency>
 
     </dependencies>
